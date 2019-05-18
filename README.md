@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-Week 2 Homework - Responsive design with bootstrap
+UofA Bootcamp Week 2 Homework - Responsive design with bootstrap
